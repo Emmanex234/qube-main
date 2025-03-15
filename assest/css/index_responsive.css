@@ -14,6 +14,10 @@ body {
 .nav-toggle {
     display: none; /* Hide toggle button on large screens */
     color: white;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    font-size: 30px;
 }
 
 /* Header */
